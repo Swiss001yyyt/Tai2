@@ -1,2 +1,1 @@
-# Tai2
-test
+worker: node index.js
